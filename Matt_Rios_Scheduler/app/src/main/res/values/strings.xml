@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Matt_Rios_Scheduler</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">channel description</string>
+    <string name="sharing">Sharing</string>
+    <string name="notifyStart">Enable Class Start Notifications</string>
+    <string name="notifyEnd">Enable Class End Notifications</string>
+    <string name="notifyAssessment">Enable Assessment Day Notifications</string>
+    <string name="delete">Delete</string>
+</resources>

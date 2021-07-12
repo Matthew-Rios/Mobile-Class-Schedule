@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.matt_rios_scheduler.UI.TermActivity">
+    <item
+        android:id="@+id/sharing"
+        android:orderInCategory="100"
+        android:title="@string/sharing"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/notifyStartDate"
+        android:orderInCategory="100"
+        android:title="@string/notifyStart"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/notifyEndDate"
+        android:orderInCategory="100"
+        android:title="@string/notifyEnd"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+</menu>
